@@ -1,0 +1,10 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/firstPortfolio/school.jpg",
+      "title": "Jesuloba",
+      "description": "A school website",
+      "url": "https://jesuloba-edu.github.io/"
+    }
+  ]
+}
