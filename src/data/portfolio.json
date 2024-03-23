@@ -1,6 +1,12 @@
 {
   "portfolio": [
     {
+      "cover": "/portfolio/secondPortfolio/unicorn.jpg",
+      "title": "Unicorn Contractors",
+      "description": "A building management company",
+      "url": "https://unicorncontractors.com.ng/"
+    },
+    {
       "cover": "/portfolio/firstPortfolio/school.jpg",
       "title": "Jesuloba",
       "description": "A school website",
